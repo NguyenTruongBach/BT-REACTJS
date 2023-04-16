@@ -4,7 +4,7 @@ import Body from './Body'
 import Footer from './Footer'
 import './style.css';
 
-export default class BaiTapThucHanhLayOut extends Component {
+export default class BTthuchanhLayOut extends Component {
   render() {
     return (
       <div>
